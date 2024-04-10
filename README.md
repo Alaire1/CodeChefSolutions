@@ -6,15 +6,21 @@
 - New franchise (assets A, yearly growth X) aims to be richest. Existing richest entities maintain current wealth (no growth). Target wealth to be richest is B billion. Find years (Y) needed for the franchise to reach or exceed target wealth.
   
 <strong>ex01</strong> <br>
--
+
+- Second dose timing: You're given the days elapsed since the first dose (D), the minimum wait requirement (L) and the maximum allowed wait (R) for the second dose.  The problem asks you to determine if it's too early (D less than L), on time (D within the range L to R, inclusive), or too late (D greater than R) for the second dose.
   
 <strong>ex02</strong> <br>
--
-  
+
+- Determine the last hoop that will be successfully jumped into before someone reaches an occupied hoop.This problem describes a game involving you and a friend jumping through hoops in a row.  There are some key points:
+Number of Hoops (N): An odd number of hoops are arranged in a line.
+Jumping Pattern: You and your friend take turns jumping, alternating between the first and last hoop, then the second and second-to-last, and so on.
+
 <strong>ex03</strong> <br>
+
 -
   
 <strong>ex04</strong> <br>
+
 -
   
 <strong>ex05</strong> <br>
