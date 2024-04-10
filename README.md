@@ -24,7 +24,6 @@ Stock buy decision: Given initial price (S), desired buy range ([A, B]), and pri
 
 <br>
 <strong>ex10</strong> <br>
-  
 Given an initial stock price (S), desired purchase range ([A, B]), and a percentage change (C), determine if the stock price allows for purchase. The final price is calculated as S * (1 + C/100). Print "YES" if the final price falls within the desired range, "NO" otherwise.
 
 <br>
@@ -33,7 +32,6 @@ Given a vehicle's current speed (U), distance to a turn (S), safe speed limit fo
 
 <br>
 <strong>ex12</strong> <br>
-  
 This problem deals with finding the longest subsequence with an even sum in an ordered sequence.  The sequence consists of all integers from 1 to a given value N (inclusive), appearing exactly once in increasing order.  We're interested in identifying the longest contiguous subsequence within this sequence where the sum of all the elements in the subsequence is an even number.
 
 <br>
