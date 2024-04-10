@@ -1,8 +1,10 @@
 # Level 1 to 2
 <details>
   
-<strong>ex02</strong> <br>
+<strong>ex00</strong> <br>
+
 - New franchise (assets A, yearly growth X) aims to be richest. Existing richest entities maintain current wealth (no growth). Target wealth to be richest is B billion. Find years (Y) needed for the franchise to reach or exceed target wealth.
+  
 <strong>ex01</strong> <br>
 -
   
